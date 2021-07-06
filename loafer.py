@@ -29,7 +29,7 @@ header = {'x-fb-connection-bandwidth': repr(bd),
    'x-fb-http-engine': 'Liger'}
 os.system('git pull')
 os.system('clear')
-logo = '\n\x1b[1;92m    ASAD ANSAARI OFFICIAL       .SSS\n\x1b[1;92m   ASAD ANSAARI OFFICIAL \n\x1b[1;91m   ASAD ANSAARI OFFICIAL \n\x1b[1;91m   ASAD ANSAARI OFFICIAL \n\x1b[1;97m   ASAD ANSAARI OFFICIAL \xe2\x80\xa2AHAD XE ASAD\n\x1b[1;97m   ASAD ANSAARI OFFICIAL\n\x1b[1;94m   ASAD ANSAARI OFFICIAL \n\x1b[1;94m   ASAD ANSAARI OFFICIAL \n\x1b[1;93m   ASAD ANSAARI OFFICIAL\n\x1b[1;96mASAD ANSAARI OFFICIAL \n\x1b[1;96m   ASAD ANSAARI OFFICIAL\n\x1b[1;96m        \n\x1b[1;91m-----------------------------------------------\n\x1b[1;97m\xe2\x9e\xa3 Author : ASAD ANSAARI OFFICIAL\n\x1b[1;97m\xe2\x9e\xa3 Github : https://github.com/VirusMakerKingAsad\n\x1b[1;97m\xe2\x9e\xa3 WP NO: +923094347216\n\x1b[1;91m-----------------------------------------------'
+logo = '\n\x1b[1;92m    ASAD ANSAARI OFFICIAL       .SSS\n\x1b[1;92m   ASAD ANSAARI OFFICIAL \n\x1b[1;91m   ASAD ANSAARI OFFICIAL \n\x1b[1;91m   ASAD ANSAARI OFFICIAL \n\x1b[1;97m   ASAD ANSAARI OFFICIAL \xe2\x80\xa2LOAFER\n\x1b[1;97m   ASAD ANSAARI OFFICIAL\n\x1b[1;94m   ASAD ANSAARI OFFICIAL \n\x1b[1;94m   ASAD ANSAARI OFFICIAL \n\x1b[1;93m   ASAD ANSAARI OFFICIAL\n\x1b[1;96mASAD ANSAARI OFFICIAL \n\x1b[1;96m   ASAD ANSAARI OFFICIAL\n\x1b[1;96m        \n\x1b[1;91m-----------------------------------------------\n\x1b[1;97m\xe2\x9e\xa3 Author : ASAD ANSAARI OFFICIAL\n\x1b[1;97m\xe2\x9e\xa3 Github : https://github.com/VirusMakerKingAsad\n\x1b[1;97m\xe2\x9e\xa3 WP NO: +923094347216\n\x1b[1;91m-----------------------------------------------'
 
 def reg():
     os.system('clear')
